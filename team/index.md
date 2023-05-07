@@ -5,7 +5,7 @@ nav:
   tooltip: About our team
 ---
 
-# <i class="fas fa-We are building a team with diverse background and expertises, from software enigneering, machine learning, image analysis, data analysis to microscopy and computational biomedical modeling."></i>Team
+# <i class="fas fa-We are building a team with diverse background and expertises."></i>Team
 
 
 
@@ -15,7 +15,7 @@ nav:
   include list.html
   data="members"
   component="portrait"
-  filters="role: lead"
+  filters="role: Lead"
 %}
 {%
   include list.html
